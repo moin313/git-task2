@@ -1,7 +1,0 @@
-this 
-is also 
-a new 
-but seecond file 
-going to 
-upload 
-on branch A
